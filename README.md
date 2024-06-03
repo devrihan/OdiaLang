@@ -1,4 +1,3 @@
-Certainly! Below is a basic example of a GitHub README.md file for your custom coding language project:
 
 ```markdown
 # Custom Coding Language
